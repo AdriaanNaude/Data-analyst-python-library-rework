@@ -7,7 +7,7 @@ def ndim(list_a):
         if x == "[" or x == "]":
             count += 1
     if count == 2:
-        dimension = count / 2
+        dimension = int(count / 2)
     else:
         dimension = int((count - 2)/2)
 

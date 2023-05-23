@@ -144,9 +144,3 @@ def div_List(list_a, list_b):
     return newlist
 
 
-
-
-
-
-
-
