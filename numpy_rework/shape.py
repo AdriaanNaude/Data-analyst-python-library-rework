@@ -1,7 +1,6 @@
 def shape(list_a):
 
     convert = str(list_a)
-    print(convert)
     count = 0
     row = 0
     column = 0

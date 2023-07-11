@@ -1,7 +1,7 @@
 
 # multiply all items in a list with items of another list
 
-def mul_List(list_a, list_b):
+def mul_list(list_a, list_b):
     newlist = []
     times = 0
     length_List1 = len(list_a) 
@@ -37,7 +37,7 @@ def mul_List(list_a, list_b):
 
 # sum of all items in a list with items of another list
 
-def sum_List(list_a, list_b):
+def sum_list(list_a, list_b):
     newlist = []
     times = 0
     length_List1 = len(list_a) 
@@ -73,7 +73,7 @@ def sum_List(list_a, list_b):
 
 # subtract all items in a list with items of another list
 
-def subt_List(list_a, list_b):
+def subt_list(list_a, list_b):
     newlist = []
     times = 0
     length_List1 = len(list_a) 
@@ -109,7 +109,7 @@ def subt_List(list_a, list_b):
 
 # divide all items in a list with items of another list
 
-def div_List(list_a, list_b):
+def div_list(list_a, list_b):
     newlist = []
     times = 0
     length_List1 = len(list_a) 
