@@ -1,7 +1,7 @@
 # Data-analyst-python-library-rework
 This is a python library rework of numpy, pandas and others librarys used in data analyst work.
 
-This is a pack of librarys that mimicthat of librarys like numpy, 
+This is a pack of librarys that mimic that of librarys like numpy, 
 but at there core are functions that give the same result as that of librarys like numpy.
 
 
@@ -32,9 +32,9 @@ First clone repo.
 ~$ git clone https://github.com/AdriaanNaude/Data-analyst-python-library-rework
 
 ```
-Then after clonig cope required library to any folder to use library.
+Then after clonig repo, add library to any folder to use.
 
-Remeber to import library to your .py file.
+Remeber to import library to your ".py" file.
 
 ```python
 
